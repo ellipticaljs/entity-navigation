@@ -1,0 +1,45 @@
+{
+  "name": "elliptical-navigation",
+  "description": "entity navigation service layer",
+  "version": "1.0.0",
+  "main": "",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "notification"
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/ellipticaljs/navigation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk"
+  ],
+  "dependencies": {
+    "elliptical-soa": "~1.0.23"
+  }
+}

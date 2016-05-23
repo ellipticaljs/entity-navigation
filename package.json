@@ -1,0 +1,11 @@
+{
+  "name": "elliptical-entity-navigation",
+  "description": "entity navigation service layer",
+  "version": "1.0.0",
+  "author": "S. Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellipticaljs/elliptical-entity-navigation.git"
+  }
+}
