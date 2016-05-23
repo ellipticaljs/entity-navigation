@@ -1,6 +1,6 @@
-# Elliptical Event
+# Elliptical Entity Navigation
 
-Elliptical Pub/Sub Library
 
+Entity navigation service layer
 
 

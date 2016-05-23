@@ -2,7 +2,7 @@
   "name": "elliptical-navigation",
   "description": "entity navigation service layer",
   "version": "1.0.0",
-  "main": "",
+  "main": "elliptical-entity.navigation.html",
   "authors": [
     "S. Francis"
   ],
