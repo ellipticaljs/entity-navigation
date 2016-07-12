@@ -1,8 +1,8 @@
 {
-  "name": "elliptical-navigation",
+  "name": "elliptical-entity-navigation",
   "description": "entity navigation service layer",
-  "version": "1.0.0",
-  "main": "elliptical-entity.navigation.html",
+  "version": "1.1.0",
+  "main": "elliptical-entity-navigation.html",
   "authors": [
     "S. Francis"
   ],
@@ -12,7 +12,7 @@
     "notification"
   ],
   "moduleType": [],
-  "homepage": "https://github.com/ellipticaljs/navigation",
+  "homepage": "https://github.com/ellipticaljs/entity-navigation",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -40,6 +40,9 @@
     "bk"
   ],
   "dependencies": {
-    "elliptical-soa": "~1.0.23"
+    "elliptical-utils": "~2.1.0",
+    "elliptical-service": "~1.0.3",
+    "elliptical-soa": "~1.1.1",
+    "elliptical-location": "~1.0.11"
   }
 }
